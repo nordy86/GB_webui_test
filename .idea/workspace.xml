@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf25743e-94f6-4be4-8725-805028999b90" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GB_webui_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GB_webui_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +51,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/java_ui_jan22-master/java_ui_jan22-master" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Andrew\IdeaProjects\GB_webui_test\src\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hw_3">
+  <component name="RunManager" selected="JUnit.TriangleAreaCalcTest.negativeTestZero">
     <configuration name="SeleniumStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.geekbrains.Lesson_3.SeleniumStart" />
       <module name="GB_webui_test" />
@@ -82,8 +85,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TriangleAreaCalcTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GB_webui_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson4" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.TriangleAreaCalcTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleAreaCalcTest.negativeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GB_webui_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson4" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.TriangleAreaCalcTest" />
+      <option name="METHOD_NAME" value="negativeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleAreaCalcTest.negativeTestZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GB_webui_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson4" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.TriangleAreaCalcTest" />
+      <option name="METHOD_NAME" value="negativeTestZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TriangleAreaCalcTest.negativeTestZero" />
+        <item itemvalue="JUnit.TriangleAreaCalcTest" />
+        <item itemvalue="JUnit.TriangleAreaCalcTest.negativeTest" />
         <item itemvalue="Application.hw_3" />
         <item itemvalue="Application.SeleniumStart" />
       </list>
