@@ -9,7 +9,9 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
-import java.util.function.BooleanSupplier;
+import static ru.yandex.qatools.htmlelements.matchers.WebElementMatchers.hasText;
+
+
 
 import static org.hamcrest.MatcherAssert.assertThat;
 
@@ -23,6 +25,7 @@ public class justAsiteTest {
     static  void registerDriver() {
         WebDriverManager.chromedriver().setup();
     }
+
     @BeforeEach
     void initDriver() {
         driver = new ChromeDriver();
@@ -30,8 +33,9 @@ public class justAsiteTest {
         actions = new Actions(driver);
         driver.get(TheSite_URL);
     }
+
     @Test
-    public void SuccessfulAuthorisation() throws InterruptedException {
+    public void SuccessfulAuthorisation() {
         actions.moveToElement(driver.findElement(By.xpath("//a[@href='http://practice.automationtesting.in/my-account/']")))
                 .click()
                 .build()
@@ -42,12 +46,27 @@ public class justAsiteTest {
                 .click()
                 .build()
                 .perform();
-        assertThat(driver.findElement(By.xpath("//div[@class='woocommerce-MyAccount-content']")), hasText )
-                ( ,driver.findElement(By.xpath("//*[contains(text(),'radugalocus')]")));
-        Thread.sleep(5000);
+        assertThat(driver.findElement
+                (By.xpath("//div[@class='woocommerce-MyAccount-content']")), hasText("Hello radugalocus (not radugalocus? Sign out)\nFrom your account dashboard you can view your recent orders, manage your shipping and billing addresses and edit your password and account details."));
+    }
 
-
-
+    @Test
+    public void moveFromAccountToBasket() {
+        actions.moveToElement(driver.findElement(By.xpath("//a[@href='http://practice.automationtesting.in/my-account/']")))
+                .click()
+                .build()
+                .perform();
+        driver.findElement(By.xpath("//input[@name='username']")).sendKeys("radugalocus@gmail.com");
+        driver.findElement(By.id("password")).sendKeys("098123Qq_!$");
+        actions.moveToElement(driver.findElement(By.name("login")))
+                .click()
+                .build()
+                .perform();
+        actions.moveToElement(driver.findElement(By.xpath("//i[@class='wpmenucart-icon-shopping-cart-0']")))
+                .click()
+                .build()
+                .perform();
+        Assertions.assertTrue(driver.getCurrentUrl().contains("basket"));
     }
 
     @AfterEach
