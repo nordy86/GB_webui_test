@@ -9,5 +9,8 @@
         <module name="GB_webui_test" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="GB_webui_test" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
