@@ -5,49 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf25743e-94f6-4be4-8725-805028999b90" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_81.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_70_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_70_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_70_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_70_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_70_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_70_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_70_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_70_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_kqueue_4_1_70_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_70_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_metrics_1_9_1_alpha.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_1_9_1_alpha.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_logs_1_9_1_alpha.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_metrics_1_9_1_alpha.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_semconv_1_9_1_alpha.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v85_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v94_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v95_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v96_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_xpi_driver_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ru_yandex_qatools_matchers_matcher_decorators_1_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ru_yandex_qatools_matchers_webdriver_matchers_1_4_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GB_webui_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GB_webui_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geekbrains/Lesson_6/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/Lesson_6/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geekbrains/Lesson_6/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/Lesson_6/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson6/PageObjectSite_hw6_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson6/PageObjectSiteHw6AndHw7Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/Lesson_3/SeleniumStart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/Lesson_3/SeleniumStart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/Lesson_3/SetupBrowserExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/Lesson_3/SetupBrowserExamples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/Lesson_3/hw_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/Lesson_3/hw_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/Lesson_4/Functions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/Lesson_4/Functions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/Lesson_4/hw_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/Lesson_4/hw_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/Lesson_6/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/Lesson_6/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/Lesson_6/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/Lesson_6/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/Lesson_6/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/Lesson_6/MainPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/lesson4/TriangleAreaCalcTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/lesson4/TriangleAreaCalcTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/lesson5/justAsiteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/lesson5/justAsiteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/lesson6/PageObjectSite_hw6_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/lesson6/PageObjectSite_hw6_Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,52 +82,55 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrew\IdeaProjects\GB_webui_test\src\test" />
+      <recent name="C:\Users\Andrew\IdeaProjects\GB_webui_test\target" />
       <recent name="C:\Users\Andrew\IdeaProjects\GB_webui_test\src\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PageObjectSite_hw6_Test.theSiteAuthTest">
-    <configuration name="PageObjectSite_hw6_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PageObjectSiteHw6AndHw7Test">
+    <configuration name="Hw7.SuccessfulAuthorisation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GB_webui_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson6.*" />
+          <option name="PATTERN" value="lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson6" />
-      <option name="MAIN_CLASS_NAME" value="lesson6.PageObjectSite_hw6_Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PageObjectSite_hw6_Test.theSiteAuthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GB_webui_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lesson6" />
-      <option name="MAIN_CLASS_NAME" value="lesson6.PageObjectSite_hw6_Test" />
-      <option name="METHOD_NAME" value="theSiteAuthTest" />
+      <option name="PACKAGE_NAME" value="lesson7" />
+      <option name="MAIN_CLASS_NAME" value="lesson7.Hw7" />
+      <option name="METHOD_NAME" value="SuccessfulAuthorisation" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="justAsiteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PageObjectSiteHw6AndHw7Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GB_webui_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson5.*" />
+          <option name="PATTERN" value="lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lesson5" />
-      <option name="MAIN_CLASS_NAME" value="lesson5.justAsiteTest" />
+      <option name="PACKAGE_NAME" value="lesson6" />
+      <option name="MAIN_CLASS_NAME" value="lesson6.PageObjectSiteHw6AndHw7Test" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageObjectSiteHw6AndHw7Test.theSiteAuthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GB_webui_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson6" />
+      <option name="MAIN_CLASS_NAME" value="lesson6.PageObjectSiteHw6AndHw7Test" />
+      <option name="METHOD_NAME" value="theSiteAuthTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -186,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PageObjectSite_hw6_Test.theSiteAuthTest" />
-        <item itemvalue="JUnit.PageObjectSite_hw6_Test" />
+        <item itemvalue="JUnit.PageObjectSiteHw6AndHw7Test" />
+        <item itemvalue="JUnit.PageObjectSiteHw6AndHw7Test.theSiteAuthTest" />
+        <item itemvalue="JUnit.Hw7.SuccessfulAuthorisation" />
         <item itemvalue="JUnit.justAsiteTest.SuccessfulAuthorisation" />
         <item itemvalue="JUnit.justAsiteTest.moveFromAccountToBasket" />
-        <item itemvalue="JUnit.justAsiteTest" />
       </list>
     </recent_temporary>
   </component>
@@ -227,5 +210,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/lesson5/justAsiteTest.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

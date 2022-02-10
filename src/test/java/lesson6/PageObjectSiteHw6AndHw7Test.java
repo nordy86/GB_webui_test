@@ -1,6 +1,5 @@
 package lesson6;
 
-import com.geekbrains.Lesson_6.LoginPage;
 import com.geekbrains.Lesson_6.MainPage;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import io.qameta.allure.Description;
@@ -15,7 +14,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 @Story("Проверка авторизации")
-public class PageObjectSite_hw6_Test {
+public class PageObjectSiteHw6AndHw7Test {
     WebDriver driver;
     private final static String TheSite_URL = "http://practice.automationtesting.in/";
 
